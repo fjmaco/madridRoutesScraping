@@ -1,0 +1,4 @@
+itemadapter==0.7.0
+opensearch_py==2.2.0
+Scrapy==2.6.3
+pandas==2.0.1
